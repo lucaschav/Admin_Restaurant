@@ -1,0 +1,5 @@
+user: admin
+pass: 4444
+
+
+al ingresar ir a ajuses e ingresar los datos del servidor y base de datos.

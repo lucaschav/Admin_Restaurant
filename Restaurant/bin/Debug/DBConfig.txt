@@ -1,0 +1,4 @@
+localhost
+restaurant1
+root
+amnesia321
